@@ -1,4 +1,4 @@
-A serverless dynamodb and vue thing for prototyping a Komodo assetchain
+A serverless dynamodb and vue thing for prototyping a Komodo assetchain.  Just add a cronjob to get submissions (below curl command) and run your `komodod -ac_name=COINNAME -ac_supply=SUPPLY` like the instructions for creating a native blockchain on your nodes https://docs.komodoplatform.com/en/latest/komodo/create-Komodo-Assetchain.html
 
 ![Komodo Blockchain Wizard](https://raw.githubusercontent.com/imylomylo/komodo-blockchain-wizard/4e16602919fcfe9feb27459889ce87da0cc2329c/komodo-blockchain-wizard.png)
 
