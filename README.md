@@ -1,5 +1,7 @@
 A serverless dynamodb and vue thing for prototyping a Komodo assetchain
 
+![Komodo Blockchain Wizard](https://raw.githubusercontent.com/imylomylo/komodo-blockchain-wizard/4e16602919fcfe9feb27459889ce87da0cc2329c/komodo-blockchain-wizard.png)
+
 Pre-requisite
 =============
 
