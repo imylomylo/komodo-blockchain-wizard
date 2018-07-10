@@ -23,6 +23,7 @@ npm run build
 ```
 now deploy the client end
 ```
+cd ..   (back to root of project where serverless.yml is)
 serverless client deploy
 ```
 Then you can visit the URL output http://......./index.html
